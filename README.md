@@ -1,16 +1,13 @@
-## Hi there 👋
+## Bệnh tiểu đường
 
-<!--
-**benhtieuduong1/benhtieuduong1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bệnh tiểu đường (hay còn gọi là đái tháo đường) đang có xu hướng trẻ hóa và có những diễn biến khó lường. Khi cảm thấy buồn nôn, khát nước, chân tay tê bì, vết thương lâu lành,... người trẻ cần chủ động đến ngay cơ sở ý tế để kiểm tra, vì đó có thể là những dấu hiệu của bệnh tiểu đường.
 
-Here are some ideas to get you started:
+ #benhtieuduong #timhieuvebenhtieuduong
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Website: https://benhtieuduong.org/
+
+https://x.com/benhtieuduong1
+
+https://www.pinterest.com/benhtieuduong1/
+
+https://vimeo.com/benhtieuduong1
